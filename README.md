@@ -16,3 +16,7 @@ https://docs.unrealengine.com/4.27/en-US/SharingAndReleasing/Mobile/Android/Gett
 
 #### VisualStudio写shader
 https://blog.csdn.net/qq_41595874/article/details/103096815
+
+
+#### VSCode写Shader
+https://blog.csdn.net/q244645787/article/details/132510884
