@@ -5,7 +5,8 @@ https://blog.csdn.net/qq_39049179/article/details/123736101
 #### 用RenderDoc调试
 在自己的电脑上先下载RenderDoc  
 UE中插件加一个RenderDoc    
-运行下拉菜单渲染移动设备预览（这次还遇到一个就是改的管线是OpenFL的mobile的所以要先https://docs.unrealengine.com/4.27/en-US/SharingAndReleasing/Mobile/Android/GettingStarted/）点击运行   
+运行下拉菜单渲染移动设备预览（这次还遇到一个就是改的管线是OpenFL的mobile的所以要先[https://docs.unrealengine.com/4.27/en-US/SharingAndReleasing/Mobile/Android/GettingStarted/]）
+点击运行   
 RenderDoc： File -> Attach to就可以搜到现在跑的进程，点击capture就抓到了    【或者在游戏中按Alt + F12】
     
 #### VisualStudio打断点失败   
