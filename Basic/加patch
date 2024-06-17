@@ -1,0 +1,2 @@
+git apply patch路径
+再./GenerateProjectFiles.bat --2019， 再在vs里右键UE4点生成
