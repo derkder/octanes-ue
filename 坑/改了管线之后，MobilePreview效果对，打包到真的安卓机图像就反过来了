@@ -1,0 +1,3 @@
+因为电脑上的preview模式好像也是用DX渲染的，首先不可能是安卓真机上跑的OpenES，甚至可能不是OpenGL
+所以屏幕空间的坐标系就反了(应该)
+然后错就错在SV_POSITION这个语义，得把SvPosition.y用outputViewport.y - SvPosition.y 纠正一下才可以
