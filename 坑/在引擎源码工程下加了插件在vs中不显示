@@ -1,1 +1,5 @@
 删了sln，使用GenerateProjectFiles.bat重新编译
+
+
+另，怎么读新加入的超分插件：
+ue主干会调用ISceneViewExtension的一些interface函数，插件里会全都override写入自己的方法。
